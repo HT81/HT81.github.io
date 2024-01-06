@@ -21,7 +21,7 @@ body{
         display: flex;
     }
 img{
-    border: 5px solid #676767;
+    border: 3px solid #000000;
 }
 .social-icon div{
     width: 100px;
